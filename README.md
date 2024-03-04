@@ -62,3 +62,5 @@ El proyecto ha constado de las siguientes fases:
 2) **Modelado de los datos con Machine Learning**. Se puede consultar en el notebook ``2.Modelado_y_GridSearchCV.ipynb``.
 3) **Extra-A: Exploración gráfica de la distribución espacial de los registros**. Se puede consultar en el notebook `` 3.Extra_A_Distribucion_espacial_datos.ipynb``.
 4) **Extra-B: Exploración de la magnitud del recall según el número de variables seleccionadas**. Se puede consultar en el notebook ``4.Extra_B_Recall_segun_n_features.ipynb``.
+
+Para terminar, adjuntamos el documento ``Folleto_ML_Setas_Thide.pdf``, que recoge la estructura de clasificación arrojada por un solo árbol de decisión, y que pretende ser un ejemplo de folleto informativo, en línea con la demanda del proyecto.
